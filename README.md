@@ -28,15 +28,6 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles and i
 
 ---
 
-## 🏗️ Diagrams
-
-### 📌 System Flowchart
-![Flowchart](docs/mermaid_flowchart.png)
-
-### 📌 UML Class Diagram
-![UML Diagram](docs/mermaid_uml.png)
-
----
 
 ## 🚀 Installation & Usage
 
