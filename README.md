@@ -32,7 +32,7 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles and i
 ![Flowchart](docs/mermaid_flowchart.png.png)
 
 #### UML Class Diagram  
-![UML Diagram](docs/mermaid_uml.png)
+![UML Diagram](docs/mermaid_uml.png.png)
 
 ---
 
