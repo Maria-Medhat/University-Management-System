@@ -42,3 +42,12 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles and i
    ```bash
    git clone https://github.com/Maria-Medhat/university-system.git
    cd university-system
+
+---
+
+## 📂 Project Structure 
+- │── main.py        # Entry point of the system
+- │── classes/       # UML-based classes (Student, Professor, Admin, Course, etc.)
+- │── data/          # Sample datasets or saved data
+- │── docs/          # Documentation & diagrams (flowchart + UML)
+- │── README.md      # Project documentation
